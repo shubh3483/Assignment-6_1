@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 6_1</string>
+    <string name="black">BLACK</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="count">COUNT</string>
+    <string name="reset">RESET</string>
+</resources>
