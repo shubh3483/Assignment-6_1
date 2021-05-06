@@ -2,7 +2,11 @@ This project contains three branches.
 
 6.1.1 : https://github.com/shubh3483/Assignment-6_1/tree/master
 
+6.1.2 : https://github.com/shubh3483/Assignment-6_1/tree/6.1.2
+
 The master branch contains code for a basic app which uses the concept of SharedPreferences in Android to save the data so that next time when the app is run the previous data already exists.
+
+The 6.1.2 branch contains only the UI work which is in with respect to Constraint Layout.
 
 The screenshot of the app(At master branch)  is attached below
 
