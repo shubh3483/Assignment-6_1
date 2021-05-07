@@ -1,12 +1,8 @@
 package com.example.assignment6_1;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.content.SharedPreferences;
-import android.graphics.Color;
 import android.os.Bundle;
-import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.assignment6_1.databinding.ActivityMainBinding;
 
@@ -19,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         b = ActivityMainBinding.inflate(getLayoutInflater());
         super.onCreate(savedInstanceState);
         setContentView(b.getRoot());
-        setTitle("Shared Preference Example");
+        setTitle("Constraint Layout 1");
 
     }
 
